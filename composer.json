@@ -1,5 +1,5 @@
 {
-    "name": "tiexpert/ws-boleto-santander",
+    "name": "guicalabria/ws-boleto-santander",
     "description": "WS Boletos Santander são classes criadas para facilitar a integração entre aplicativos feitos em PHP e a geração de boletos online no banco Santander.",
     "homepage": "https://github.com/DenysXavier/WSBoletoSantander",
     "type": "library",
